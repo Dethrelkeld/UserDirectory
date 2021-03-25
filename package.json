@@ -1,5 +1,6 @@
 {
   "name": "user-directory",
+  "homepage": "https://DeThrelkeld.github.io/user-directory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +17,6 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.0"
   },
-  "homepage": "https://DeThrelkeld.github.io/UserDirectory",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
